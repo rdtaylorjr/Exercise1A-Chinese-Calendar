@@ -1,0 +1,11 @@
+Enter a year: 2100
+2100 is the year of the Monkey
+
+Again? y/n: y
+
+Enter a year: 2018
+2018 is the year of the Dog
+
+Again? y/n: n
+
+Program ended with exit code: 0
